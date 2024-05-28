@@ -1,2 +1,2 @@
 # Landing-Page
-Using HTML, CSS, JavaScript
+Using HTML, CSS
