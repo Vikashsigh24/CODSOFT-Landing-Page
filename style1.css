@@ -86,7 +86,7 @@ body {
 .button a:hover {
     background-color: black;
     color: white;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 
@@ -412,6 +412,9 @@ p {
 
     .button a {
         padding: 10px;
+    }
+     .button a:hover {
+        transition: 0.1s;
     }
 
     .container {
