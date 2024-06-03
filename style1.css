@@ -229,7 +229,7 @@ input:focus {
     margin: 10px;
     font-size: 13px;
     float: left;
-    width: 350px;
+    width: 100%;
 }
 
 .icon-text:hover {
