@@ -80,7 +80,7 @@ body {
 
 .container {
     text-align: center;
-    margin: 0 100px;
+    margin: 0 80px;
 }
 
 .button a:hover {
@@ -546,7 +546,7 @@ p {
 
 }
 
-@media screen and (min-width:769px) and (max-width:1350px) {
+@media screen and (min-width:769px) and (max-width:1300px) {
     .top-nav {
         height: auto;
         width: 100%;
@@ -565,7 +565,7 @@ p {
     }
 
     .top-nav .container {
-        margin: 0 0px;
+        margin: 0 10px;
 
     }
 
@@ -593,18 +593,19 @@ p {
 
     .nav-2{
         margin-left: 0;
+        text-align: center;
     }
     
     .nav-2-heading {
-
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 40%;
+        margin-right: 25%;
         text-align: center;
         display: flex;
+
     }
 
     .nav-2-elements {
-        margin: 0;
+        margin-left: auto;
     }
 
     .nav-2-elements a{
@@ -613,7 +614,7 @@ p {
 
     .nav-2 .container {
         text-align: center;
-        margin: 0 10px;
+        margin: 0 8px;
     }
-  
+
 }
