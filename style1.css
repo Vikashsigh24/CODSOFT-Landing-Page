@@ -217,8 +217,7 @@ input:focus {
 
 .nav3-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
 }
 
 .icon-text {
@@ -227,8 +226,8 @@ input:focus {
 }
 
 .column {
+    margin: 10px;
     font-size: 13px;
-    margin-left: 80px;
     float: left;
     width: 350px;
 }
